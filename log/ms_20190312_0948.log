@@ -1,0 +1,7 @@
+2019-03-12 09:48:44 INFO -- Checking /conf/base.conf for correct configuration
+2019-03-12 09:48:44 INFO -- Starting vagrant locally
+2019-03-12 09:48:50 INFO -- Stopping vagrant subscriber
+2019-03-12 09:48:52 INFO -- Starting subscriber application
+2019-03-12 09:48:52 INFO -- mock-fico-service
+2019-03-12 09:48:52 INFO -- business-api
+2019-03-12 09:48:52 INFO -- credit-service

@@ -1,0 +1,21 @@
+2019-03-12 09:57:14 INFO -- Checking /conf/base.conf for correct configuration
+2019-03-12 09:57:14 DEBUG -- comparing line elasticsearch.host in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line = in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line "[localhost:9300]" in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line elasticsearch.clusterName in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line = in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line "elasticsearch" in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line elasticsearch.residential.indexName in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line = in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line "resi" in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line creditMicroservice.hostUrl in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line = in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line "http://localhost:9010" in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line microservice.api.credit.enabled in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line = in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 DEBUG -- comparing line "true" in base.conf agaisnt creditMicroservice.hostUrl\
+2019-03-12 09:57:14 ERROR -- /conf/base.conf file is missing line: creditMicroservice.hostUrl\ \=\ \"http://localhost:9010\"
+2019-03-12 09:57:14 INFO -- Starting subscriber application
+2019-03-12 09:57:14 INFO -- mock-fico-service
+2019-03-12 09:57:14 INFO -- business-api
+2019-03-12 09:57:14 INFO -- credit-service

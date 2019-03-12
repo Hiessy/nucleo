@@ -1,0 +1,5 @@
+2019-03-09 09:38:37 INFO -- Checking /conf/base.conf for correct configuration
+2019-03-09 09:38:37 INFO -- Starting subscriber application
+2019-03-09 09:38:37 INFO -- mock-fico-service
+2019-03-09 09:38:37 INFO -- business-api
+2019-03-09 09:38:37 INFO -- credit-service
